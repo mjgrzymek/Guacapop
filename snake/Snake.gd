@@ -11,7 +11,7 @@ var cdir=name_to_v['right']
 #wanted direction
 var wdir=cdir
 
-var extra_segments=5
+var extra_segments=0
 
 func take_turn():
 	if wdir==-cdir:
